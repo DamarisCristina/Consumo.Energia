@@ -36,6 +36,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
    * Nome do aparelho
    * Potência (em watts) 
    * Horas de uso por dia
+   * Valor do kWh
 5. O programa mostrará o consumo e o custo estimado
 
 ---
