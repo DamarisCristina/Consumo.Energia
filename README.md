@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o projeto
 
-ste projeto foi desenvolvido com o objetivo de calcular o consumo mensal de energia elétrica ⚡ de um aparelho eletrônico, com base em sua potência (em watts) e no tempo de uso diário.
+Este projeto foi desenvolvido com o objetivo de calcular o consumo mensal de energia elétrica ⚡ de um aparelho eletrônico, com base em sua potência (em watts) e no tempo de uso diário.
 
 O sistema também permite calcular o custo estimado da energia, utilizando o valor do kWh informado pelo usuário.
 
