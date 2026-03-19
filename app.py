@@ -14,4 +14,4 @@ custo = consumoMensal * preco
 # - Descrevendo -
 print(f"Aparelho: {aparelho}")
 print(f"Consumo Estimado: {consumoMensal:.2f} kWh/mês")
-print(f"O Custo total por Watts por mês é de: {custo:.2f}")
+print(f"O Custo mensal estimado é de: {custo:.2f}")
